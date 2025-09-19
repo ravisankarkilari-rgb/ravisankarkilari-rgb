@@ -97,7 +97,7 @@ Credits and references used in this README:
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto.ravisankarkilari@gmail.com)
 
-<a href="https://www.linkedin.com/in/Ravisankar Kilari/" target="blank">
+<a href="https://www.linkedin.com/feed/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/ravi_s_l_970/" target="blank">
