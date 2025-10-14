@@ -19,6 +19,8 @@ Credits and references used in this README:
 ## About Me
 - I completed my under graduation in JAIN UNIVERSITY.
 - I am very much intrested in traveling .Having good survivng skills.
+- I am very much intrested in exploring new things
+- Reading books
 - Beginner at AI, and tech skills
 
 
