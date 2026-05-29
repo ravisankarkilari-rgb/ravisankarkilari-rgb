@@ -39,65 +39,63 @@ Credits and references used in this README:
 <table>
   <tr>
 
-    <!-- Project 1 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/ravisankarkilari-rgb/drowse-guard.git">
-        <img src="https://github.com/user-attachments/assets/df525d33-dd3f-4f9e-a4ec-fd04f7aafd96"
-             alt="Drowse Guard AI"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Drowse Guard AI</b><br/>
-      <sub>
-        AI-powered driver drowsiness detection system using computer vision to detect sleepy drivers in real time.
-      </sub><br/>
-      🔗 <a href="https://github.com/YOUR_GITHUB_USERNAME/drowse-guard">
-        Repo
-      </a>
-      <br/>
-      <sub>Tags: AI, Computer Vision, React, Supabase</sub>
-    </td>
+<!-- Project 1 -->
+<td align="center" width="33%">
+  <a href="https://github.com/ravisankarkilari-rgb/drowse-guard">
+    <img src="https://github.com/user-attachments/assets/df525d33-dd3f-4f9e-a4ec-fd04f7aafd96"
+         alt="Drowse Guard AI"
+         width="100%" height="200"/>
+  </a>
+  <br/>
+  <b>Drowse Guard AI</b><br/>
+  <sub>
+    AI-powered driver drowsiness detection system using computer vision to detect sleepy drivers in real time.
+  </sub>
+  <br/>
+  🔗 <a href="https://github.com/ravisankarkilari-rgb/drowse-guard">Repo</a>
+  <br/>
+  <sub>Tags: AI, Computer Vision, React, Supabase</sub>
+</td>
 
-    <!-- Project 2 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/ravisankarkilari-rgb/MindBalance_Ai-Wellness_Coach.git">
-        <img src="https://github.com/user-attachments/assets/08348a49-ca28-45c6-9e42-7655b3b3a36f"
-             alt=" MindBalance_Ai-Wellness_Coach  "
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Smart PG Management AI</b><br/>
-      <sub>
-        Smart hostel/PG management platform with room tracking, rent monitoring, and AI-based assistance.
-      </sub><br/>
-      🔗 <a href="https://github.com/YOUR_GITHUB_USERNAME/smart-pg-management">
-        Repo
-      </a>
-      <br/>
-      <sub>Tags: AI, Web App, Management System</sub>
-    </td>
+<!-- Project 2 -->
+<td align="center" width="33%">
+  <a href="https://github.com/ravisankarkilari-rgb/MindBalance_Ai-Wellness_Coach">
+    <img src="https://github.com/user-attachments/assets/08348a49-ca28-45c6-9e42-7655b3b3a36f"
+         alt="MindBalance AI Wellness Coach"
+         width="100%" height="200"/>
+  </a>
+  <br/>
+  <b>MindBalance AI Wellness Coach</b><br/>
+  <sub>
+    Browser-based AI wellness app with facial emotion recognition, adaptive audio synthesis, and cognitive training games.
+  </sub>
+  <br/>
+  🔗 <a href="https://github.com/ravisankarkilari-rgb/MindBalance_Ai-Wellness_Coach">Repo</a>
+  <br/>
+  <sub>Tags: AI, Wellness, Web App</sub>
+</td>
 
-    <!-- Project 3 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/ravisankarkilari-rgb/Stock_Price_Prediction.git">
-        <img src="https://github.com/user-attachments/assets/475dcf21-bf68-4c32-b136-2800a3493343"
-             alt="Authentication System"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Supabase Authentication System</b><br/>
-      <sub>
-        Secure login system using Google OAuth and email authentication with Supabase backend.
-      </sub><br/>
-      🔗 <a href="https://github.com/YOUR_GITHUB_USERNAME/supabase-auth-project">
-        Repo
-      </a>
-      <br/>
-      <sub>Tags: Supabase, Authentication, React</sub>
-    </td>
+<!-- Project 3 -->
+<td align="center" width="33%">
+  <a href="https://github.com/ravisankarkilari-rgb/Stock_Price_Prediction">
+    <img src="https://github.com/user-attachments/assets/475dcf21-bf68-4c32-b136-2800a3493343"
+         alt="Stock Price Prediction"
+         width="100%" height="200"/>
+  </a>
+  <br/>
+  <b>Stock Price Prediction</b><br/>
+  <sub>
+    Machine learning project for analyzing historical stock market data and predicting stock price trends.
+  </sub>
+  <br/>
+  🔗 <a href="https://github.com/ravisankarkilari-rgb/Stock_Price_Prediction">Repo</a>
+  <br/>
+  <sub>Tags: Python, Machine Learning, Data Analysis</sub>
+</td>
 
   </tr>
 </table>
+
 
 ---
 
